@@ -1,5 +1,9 @@
-# 𝙈𝙍.𝘾𝙊𝙉𝙌𝙐𝙀𝙍𝙊𝙍
-Tech Enthusiastic • Engaging in Computer science and Engineering
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc4MDE5MDksIm5iZiI6MTc2NzgwMTYwOSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA3VDE2MDAwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1NzZlN2I5NWY5MDdkOGZlMGU3MjE3ZGVmOWE4Zjg2ZWM0YTA5OGY5ZTBiZmU3MjExMWE5ZWU2NzcwMjhmNzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qsiVUE7BkGfhoNDvDoAViGYjpXLrouSxJT__Guzw7_4" width="100%" />
+
+  # 𝙈𝙍.𝘾𝙊𝙉𝙌𝙐𝙀𝙍𝙊𝙍
+  Tech Enthusiastic • Engaging in Computer science and Engineering
+</div>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
