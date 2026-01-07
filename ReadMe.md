@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpapercave.com/wp/wp9641893.jpg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" />
 
   # 𝙈𝙍.𝘾𝙊𝙉𝙌𝙐𝙀𝙍𝙊𝙍
   Tech Enthusiastic • Engaging in Computer science and Engineering
